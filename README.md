@@ -19,3 +19,6 @@ Links to learn webRTC
 * [How To Create A WebRTC Signaling Chat App](https://pusher.com/tutorials/webrtc_chat)
 * [RTCMultiConnection | WebRTC](http://www.rtcmulticonnection.org/)
 * [Building a Text, Audio and Video Chat Web App Using WebRTC and Ratchet](https://medium.com/@amirsanni/building-a-text-audio-and-video-chat-web-app-using-webrtc-and-ratchet-45863446e79a)
+### Next to read
+* [SDP: Session Description Protocol](https://tools.ietf.org/html/rfc4566)
+* [JavaScript Session Establishment Protocol](https://datatracker.ietf.org/doc/draft-ietf-rtcweb-jsep/?include_text=1)
