@@ -22,3 +22,4 @@ Links to learn webRTC
 ### Next to read
 * [SDP: Session Description Protocol](https://tools.ietf.org/html/rfc4566)
 * [JavaScript Session Establishment Protocol](https://datatracker.ietf.org/doc/draft-ietf-rtcweb-jsep/?include_text=1)
+* [Web Real-Time Communication Use Cases and Requirements](https://tools.ietf.org/html/rfc7478)
